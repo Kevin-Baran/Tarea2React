@@ -1,0 +1,25 @@
+form{
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid red;
+    background: #52809d;
+    border-radius: 25px;
+}
+
+.button{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button:hover{
+    background: blue;
+}
+
+h1,h2{
+    text-align: center;
+}
